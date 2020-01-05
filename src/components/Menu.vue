@@ -1,16 +1,15 @@
 <template>
-  <v-app>
-    
-  </v-app>
+  <v-container>
+
+  </v-container>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: 'Menu',
 
   data: () => ({
-    //
+    
   }),
 };
 </script>
