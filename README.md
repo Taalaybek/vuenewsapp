@@ -1,5 +1,5 @@
 # vuenewsapp
-Vue + Vuetify example usage using [newsapi.org](newsapi.org) apis
+Vue + Vuetify example usage using [newsapi.org](https://newsapi.org/) apis
 ## Project setup
 ```
 npm install
